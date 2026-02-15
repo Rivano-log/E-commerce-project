@@ -374,7 +374,7 @@ color:  white;
 
 }
 /* SM Screens */
-@media ( max-width : 640px ){}
+@media ( max-width : 640px ){
 /* navigation */
 
 .nav__menu{
@@ -399,10 +399,10 @@ color:  white;
 .product{
   width: 48%
 }
+}
 
 /* mobile */
 
-@media (max-width: 480px){
  @media (max-width: 480px){
   .banner__text__title .banner__text__title2{
     margin-top: 24px;
@@ -455,4 +455,3 @@ color:  white;
  }
 
 
-}
