@@ -455,3 +455,7 @@ color:  white;
  }
 
 
+@media (max-width: 390px){
+  .banner__text { padding: 20px 14px; }
+  .banner__text__title { font-size: 24px; }
+}
